@@ -1,4 +1,4 @@
-# Advanced-Topics-In-Recommendation-Systems---Final-Project
+Advanced Topics In Recommendation Systems - Final-Project:
 Predicting Review Helpfulness within the P5 Framework
 
 
@@ -20,5 +20,5 @@ underline the efficacy of this method and its contributions to the overarching g
 the results not fully meeting our performance expectations, the focus of our project was to showcase the model’s
 enhanced multitasking capabilities, rather than achieving peak performance in the new task alone.
 
-All based on: https://github.com/jeykigung/P5/tree/main
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2203.13366.pdf
+Code: https://github.com/jeykigung/P5/tree/main
+Paper: https://arxiv.org/pdf/2203.13366.pdf
